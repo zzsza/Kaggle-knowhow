@@ -7,7 +7,7 @@
 - 작성일 : 17.11.23
 
 
-#1. 입문자들이 보면 좋을 자료
+# 1. 입문자들이 보면 좋을 자료
 1) [Kaggle Intro](https://github.com/zzsza/Kaggle-knowhow/blob/master/01.Kaggle-Intro.md)
 
 2) [Kaggle Flow](https://github.com/zzsza/Kaggle-knowhow/blob/master/02.Kaggle-Flow.md)
@@ -17,7 +17,7 @@
 4) [이상열님의 pycon 2017 튜토리얼 자료](https://github.com/KaggleBreak/walkingkaggle/blob/master/pycon2017_kr/pycon_korea_2017_Kaggle_tutorial.ipynb)
 
 
-#2. 캐글 과거 솔루션 및 경험기
+# 2. 캐글 과거 솔루션 및 경험기
 1) [과거 솔루션들을 올려주는 사이트](http://ndres.me/kaggle-past-solutions/)
 
 2) [최근 공개된 Kaggle data science bowl 2017 우승자분의 자료](http://nbviewer.jupyter.org/github/bckenstler/dsb17-walkthrough/blob/master/Part%201.%20DSB17%20Preprocessing.ipynb)
@@ -33,7 +33,7 @@
 6) [캐글뽀개기 스터디 자료](https://github.com/KaggleBreak/walkingkaggle)
 
 
-#3. 알고리즘
+# 3. 알고리즘
 1) [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 
 1-1) [XGBoost 브런치 글](https://brunch.co.kr/@snobberys/137)
@@ -44,7 +44,7 @@
 
 3) [Catboost](https://catboost.yandex/)
 
-#4. 기타
+# 4. 기타
 1) [캐글 경진대회의 Tip이 적혀있는 슬라이드 쉐어](https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions) 
 
 2) [Kaggle을 진행하며 고민을 적었던 제 Github](https://github.com/zzsza/Kaggle_Expedia-hotel-recommendations)
