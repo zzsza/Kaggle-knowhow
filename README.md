@@ -15,14 +15,14 @@
 
 ## 1. 입문자들이 보면 좋을 자료
 - [Kaggle Intro](https://github.com/zzsza/Kaggle-knowhow/blob/master/01.Kaggle-Intro.md)
-- [Kaggle Flow](https://github.com/zzsza/Kaggle-knowhow/blob/master/02.Kaggle-Flow.md)-
+- [Kaggle Flow](https://github.com/zzsza/Kaggle-knowhow/blob/master/02.Kaggle-Flow.md)
 - [김연민님의 실전 머신러닝 발표 자료](https://github.com/KaggleBreak/studybreak/blob/gh-pages/2017/seminar/Kaggle_Stacking/Kaggle%20Competition%20%EB%8F%84%EC%A0%84%EA%B8%B0.pptx)
 - [이상열님의 pycon 2017 튜토리얼 자료](https://github.com/KaggleBreak/walkingkaggle/blob/master/pycon2017_kr/pycon_korea_2017_Kaggle_tutorial.ipynb)
 
 
 ## 2. 캐글 과거 솔루션 및 경험기
 - [과거 솔루션들을 올려주는 사이트](http://ndres.me/kaggle-past-solutions/)
-- [최근 공개된 Kaggle data science bowl 2017 우승자분의 자료](http://nbviewer.jupyter.org/github/bckenstler/dsb17-walkthrough/blob/master/Part%201.%20DSB17%20Preprocessing.ipynb)
+- [Kaggle data science bowl 2017 우승자분의 자료](http://nbviewer.jupyter.org/github/bckenstler/dsb17-walkthrough/blob/master/Part%201.%20DSB17%20Preprocessing.ipynb)
 - [정권우님의 kaggle santander 추천 대회 github](https://github.com/kweonwooj/kaggle_santander_product_recommendation)
 - [정권우님의 블로그](http://kweonwooj.tistory.com/) : 우승자들의 글을 번역해둔 블로그입니다
 - [최규민님의 Instacart EDA](https://brunch.co.kr/@goodvc78/17)
