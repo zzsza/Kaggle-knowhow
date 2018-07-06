@@ -28,6 +28,7 @@
 - [최규민님의 Instacart EDA](https://brunch.co.kr/@goodvc78/17)
 - [김범수님 참가 후기](https://shuuki4.wordpress.com/category/kaggle/)
 - [캐글뽀개기 스터디 자료](https://github.com/KaggleBreak/walkingkaggle)
+- [김일두님의 Tensorflow Speech Recognition 대회 아이디어(9등)](http://openresearch.ai/t/ideas-for-9th-kaggle-tensorflow-speech-recognition-challenge/105)
 
 
 ## 3. 자주 사용되는 알고리즘
