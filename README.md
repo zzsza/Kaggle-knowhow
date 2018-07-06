@@ -18,7 +18,7 @@
 - [Kaggle Flow](https://github.com/zzsza/Kaggle-knowhow/blob/master/02.Kaggle-Flow.md)
 - [김연민님의 실전 머신러닝 발표 자료](https://github.com/KaggleBreak/studybreak/blob/gh-pages/2017/seminar/Kaggle_Stacking/Kaggle%20Competition%20%EB%8F%84%EC%A0%84%EA%B8%B0.pptx)
 - [이상열님의 pycon 2017 튜토리얼 자료](https://github.com/KaggleBreak/walkingkaggle/blob/master/pycon2017_kr/pycon_korea_2017_Kaggle_tutorial.ipynb)
-
+- [Kaggle KR 블로그](http://kaggle-kr.tistory.com/)
 
 ## 2. 캐글 과거 솔루션 및 경험기
 - [과거 솔루션들을 올려주는 사이트](http://ndres.me/kaggle-past-solutions/)
@@ -47,8 +47,9 @@
 ## 5. 동영상
 - [김일두님의 Deep Learning Practitioner의 캐글 2회 참가기](https://tv.naver.com/v/3367304)
 - [박조은님의 오늘의 캐글](https://www.youtube.com/channel/UCLR3sD0KB_dWpvcsrLP0aUg)
+- [이유한님의 Titanic with Youhan Lee](https://www.youtube.com/watch?v=_iqz7tFhox0&list=PLC_wC_PMBL5MnqmgTLqDgu4tO8mrQakuF)
 
-## 6. 커뮤니티
+## 6. 한국 커뮤니티
 - [캐글뽀개기](https://www.facebook.com/groups/kagglebreak/)
 - [캐글 코리아](https://www.facebook.com/groups/230717130993727/)
 
