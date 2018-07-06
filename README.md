@@ -1,7 +1,7 @@
 # Kaggle-knowhow
 - Kaggle-Knowhow(Korean Ver) 
 - 한국분들을 위한 Kaggle 자료 모음입니다
-- Kaggle Intro와 Kaggle Flow은 직접 작성하였으며, 개인의 경험에 의한 내용이라 틀린 내용이 있을 수 있습니다! 
+- Kaggle Intro와 Kaggle Flow은 직접 작성하였으며, 주관이 들어가있기 때문에 실제와 다를 수 있습니다!
 - Pull Request 환영합니다!
 
 ---
