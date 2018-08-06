@@ -46,9 +46,11 @@
 - [박조은님의 Kaggle Struggle Github](https://github.com/corazzon/KaggleStruggle)
  
 ## 5. 동영상
+- Coursera의 [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/)
 - [김일두님의 Deep Learning Practitioner의 캐글 2회 참가기](https://tv.naver.com/v/3367304)
 - [박조은님의 오늘의 캐글](https://www.youtube.com/channel/UCLR3sD0KB_dWpvcsrLP0aUg)
 - [이유한님의 Titanic with Youhan Lee](https://www.youtube.com/watch?v=_iqz7tFhox0&list=PLC_wC_PMBL5MnqmgTLqDgu4tO8mrQakuF)
+
 
 ## 6. 한국 커뮤니티
 - [캐글뽀개기](https://www.facebook.com/groups/kagglebreak/)
