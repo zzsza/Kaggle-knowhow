@@ -7,8 +7,9 @@
 ---
 
 - 작성자 : [SeongYun Byeon](https://github.com/zzsza)
-- 최근 수정일 : 18.09.03
+- 최근 수정일 : 18.09.06
 - 수정 사항
+	- 18.09.06 : 김연민님의 Pycon 2018 Tutorial 추가, (new) 마크 추가 
 	- 18.09.03 : How to Rank 10% in Your First Kaggle Competition, 정권우님 책 추가
 	- 18.07.06 : 배치 수정 및 최근 자료 추가(김일두님, 박조은님, StackNet, 커뮤니티)	  
 
@@ -20,7 +21,8 @@
 - [김연민님의 실전 머신러닝 발표 자료](https://github.com/KaggleBreak/studybreak/blob/gh-pages/2017/seminar/Kaggle_Stacking/Kaggle%20Competition%20%EB%8F%84%EC%A0%84%EA%B8%B0.pptx)
 - [이상열님의 pycon 2017 튜토리얼 자료](https://github.com/KaggleBreak/walkingkaggle/blob/master/pycon2017_kr/pycon_korea_2017_Kaggle_tutorial.ipynb)
 - [Kaggle KR 블로그](http://kaggle-kr.tistory.com/)
-- [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
+- **(new!)** [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
+- **(new!)** [Pycon 2018 Kaggle Tutorial : 미운우리캐글](https://www.slideshare.net/yeonminkim/pycon-korea-2018-kaggle-tutorialkaggle-break)
 
 ## 2. 캐글 과거 솔루션 및 경험기
 - [과거 솔루션들을 올려주는 사이트](http://ndres.me/kaggle-past-solutions/)
@@ -47,7 +49,7 @@
 - [박조은님의 Kaggle Struggle Github](https://github.com/corazzon/KaggleStruggle)
  
 ## 5. 동영상
-- Coursera의 [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/) : 강력 추천!
+- **(new!)** Coursera의 [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/) : 강력 추천!
 - [김일두님의 Deep Learning Practitioner의 캐글 2회 참가기](https://tv.naver.com/v/3367304)
 - [박조은님의 오늘의 캐글](https://www.youtube.com/channel/UCLR3sD0KB_dWpvcsrLP0aUg)
 - [이유한님의 Titanic with Youhan Lee](https://www.youtube.com/watch?v=_iqz7tFhox0&list=PLC_wC_PMBL5MnqmgTLqDgu4tO8mrQakuF)
@@ -58,5 +60,5 @@
 - [캐글 코리아](https://www.facebook.com/groups/230717130993727/)
 
 ## 7. 책
-- 정권우님의 [Kaggle 우승작으로 배우는 머신러닝 탐구생활](http://www.yes24.com/24/goods/63830327?scode=032&OzSrank=1)
+- **(new!)** 정권우님의 [Kaggle 우승작으로 배우는 머신러닝 탐구생활](http://www.yes24.com/24/goods/63830327?scode=032&OzSrank=1)
 
