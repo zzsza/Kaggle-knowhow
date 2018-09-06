@@ -9,7 +9,7 @@
 - 작성자 : [SeongYun Byeon](https://github.com/zzsza)
 - 최근 수정일 : 18.09.06
 - 수정 사항
-	- 18.09.06 : 김연민님의 Pycon 2018 Tutorial 추가, (new) 마크 추가 
+	- 18.09.06 : 김연민님의 Pycon 2018 Tutorial 추가, (new) 마크 추가, XGBoost, Light GBM 파라미터 추가
 	- 18.09.03 : How to Rank 10% in Your First Kaggle Competition, 정권우님 책 추가
 	- 18.07.06 : 배치 수정 및 최근 자료 추가(김일두님, 박조은님, StackNet, 커뮤니티)	  
 
@@ -39,6 +39,7 @@
 - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 	- [XGBoost 브런치 글](https://brunch.co.kr/@snobberys/137)
 	- [XGBoost 미디엄 글](https://medium.com/@peteryun/ml-kaggle%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EB%8A%94-xgboost-f1650342ba93)
+	- **(new!)** [XGBoost/LightGBM 파라미터 설명 글](https://sites.google.com/view/lauraepp/parameters)
 - [Light GBM](https://lightgbm.readthedocs.io/en/latest/)
 - [Catboost](https://catboost.yandex/)
 - [StackNet](https://github.com/kaz-Anova/StackNet)
