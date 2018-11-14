@@ -7,8 +7,9 @@
 ---
 
 - 작성자 : [SeongYun Byeon](https://github.com/zzsza)
-- 최근 수정일 : 18.11.04
+- 최근 수정일 : 18.11.14
 - 수정 사항
+	- 18.11.14 : Boosting 알고리즘 설명 자료 추가, 이정윤님 키노트 추가
 	- 18.11.04 : 캐글뽀개기 행사 DATA BREAK 2018 발표 자료 추가
 	- 18.09.06 : 김연민님의 Pycon 2018 Tutorial 추가, (new) 마크 추가, XGBoost, Light GBM 파라미터 추가
 	- 18.09.03 : How to Rank 10% in Your First Kaggle Competition, 정권우님 책 추가
@@ -25,6 +26,8 @@
 - [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
 - [Pycon 2018 Kaggle Tutorial : 미운우리캐글](https://www.slideshare.net/yeonminkim/pycon-korea-2018-kaggle-tutorialkaggle-break)
 - **(new!)** [DataBreak 2018 발표 자료](http://kagglebreak.com/databreak2018/speakers/)
+	- 이정윤님 키노트 [Mastering Machine Learning with Competitions](https://github.com/KaggleBreak/databreak/raw/master/2018/Keynote/%EC%9D%B4%EC%A0%95%EC%9C%A4%EB%8B%98_Mastering%20ML%20with%20Competitions.pdf) 
+	- 이외에도 다양한 발표 자료가 많습니다 :)
 
 ## 2. 캐글 과거 솔루션 및 경험기
 - [과거 솔루션들을 올려주는 사이트](http://ndres.me/kaggle-past-solutions/)
@@ -42,9 +45,13 @@
 	- [XGBoost 브런치 글](https://brunch.co.kr/@snobberys/137)
 	- [XGBoost 미디엄 글](https://medium.com/@peteryun/ml-kaggle%EC%97%90-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EB%8A%94-xgboost-f1650342ba93)
 	- **(추천!)** [XGBoost/LightGBM 파라미터 설명 글](https://sites.google.com/view/lauraepp/parameters)
+	- **(new!)** [Introduction to Boosted Trees PPT 자료](https://homes.cs.washington.edu/~tqchen/pdf/BoostedTree.pdf?fbclid=IwAR0gGntURg4U24l6Fit-DLpVNBb_BtgMjzlSg3NYdb8jI44JLHLH-0Zluis)
 - [Light GBM](https://lightgbm.readthedocs.io/en/latest/)
 - [Catboost](https://catboost.yandex/)
 - [StackNet](https://github.com/kaz-Anova/StackNet)
+- **(new!)** [CatBoost vs. Light GBM vs. XGBoost 비교글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+
+
 
 ## 4. 기타
 - [캐글 경진대회의 Tip이 적혀있는 슬라이드 쉐어](https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions) 
