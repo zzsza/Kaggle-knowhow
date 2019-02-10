@@ -72,7 +72,7 @@
 
 ## 6. 한국 커뮤니티
 - [캐글 코리아](https://www.facebook.com/groups/230717130993727/)
-        - [캐글 코리아 오픈 채팅](https://open.kakao.com/o/gP24T89)
+	- [캐글 코리아 오픈 채팅](https://open.kakao.com/o/gP24T89)
 - [데이터뽀개기](https://www.facebook.com/groups/databreak/)
 
 ## 7. 책
