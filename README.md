@@ -8,8 +8,9 @@
 ---
 
 - 작성자 : [SeongYun Byeon](https://github.com/zzsza)
-- 최근 수정일 : 18.11.14
+- 최근 수정일 : 19.02.10
 - 수정 사항
+	- 19.02.10 : 이유한님 유튜브 주소 추가(커널 필사 스터디), 캐글코리아 오픈채팅/2019 1st ML month with KaKR 추가
 	- 18.11.14 : Boosting 알고리즘 설명 자료 추가, 이정윤님 키노트 추가
 	- 18.11.04 : 캐글뽀개기 행사 DATA BREAK 2018 발표 자료 추가
 	- 18.09.06 : 김연민님의 Pycon 2018 Tutorial 추가, (new) 마크 추가, XGBoost, Light GBM 파라미터 추가
@@ -17,6 +18,7 @@
 	- 18.07.06 : 배치 수정 및 최근 자료 추가(김일두님, 박조은님, StackNet, 커뮤니티)	  
 
 ---
+
 
 ## 1. 입문자들이 보면 좋을 자료
 - [Kaggle Intro](https://github.com/zzsza/Kaggle-knowhow/blob/master/01.Kaggle-Intro.md)
@@ -29,6 +31,8 @@
 - **(new!)** [DataBreak 2018 발표 자료](http://kagglebreak.com/databreak2018/speakers/)
 	- 이정윤님 키노트 [Mastering Machine Learning with Competitions](https://github.com/KaggleBreak/databreak/raw/master/2018/Keynote/%EC%9D%B4%EC%A0%95%EC%9C%A4%EB%8B%98_Mastering%20ML%20with%20Competitions.pdf) 
 	- 이외에도 다양한 발표 자료가 많습니다 :)
+- [2019 1st ML month with KaKR](https://www.kaggle.com/c/2019-1st-ml-month-with-kakr)
+
 
 ## 2. 캐글 과거 솔루션 및 경험기
 - [과거 솔루션들을 올려주는 사이트](http://ndres.me/kaggle-past-solutions/)
@@ -53,22 +57,23 @@
 - **(new!)** [CatBoost vs. Light GBM vs. XGBoost 비교글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
 
-
 ## 4. 기타
 - [캐글 경진대회의 Tip이 적혀있는 슬라이드 쉐어](https://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions) 
 - [Kaggle을 진행하며 고민을 적었던 제 Github](https://github.com/zzsza/Kaggle_Expedia-hotel-recommendations)
 - [박조은님의 Kaggle Struggle Github](https://github.com/corazzon/KaggleStruggle)
  
+ 
 ## 5. 동영상
+- **(추천!)** [이유한님 유튜브](https://www.youtube.com/channel/UC--LgKcZVgffjsxudoXg5pQ) : 커널 스터디를 라이브로 코딩하며 설명!
 - **(추천!)** Coursera의 [How to Win a Data Science Competition: Learn from Top Kagglers](https://www.coursera.org/learn/competitive-data-science/) : 강력 추천!
 - [김일두님의 Deep Learning Practitioner의 캐글 2회 참가기](https://tv.naver.com/v/3367304)
 - [박조은님의 오늘의 캐글](https://www.youtube.com/channel/UCLR3sD0KB_dWpvcsrLP0aUg)
-- [이유한님의 Titanic with Youhan Lee](https://www.youtube.com/watch?v=_iqz7tFhox0&list=PLC_wC_PMBL5MnqmgTLqDgu4tO8mrQakuF)
 
 
 ## 6. 한국 커뮤니티
-- [캐글뽀개기](https://www.facebook.com/groups/kagglebreak/)
 - [캐글 코리아](https://www.facebook.com/groups/230717130993727/)
+        - [캐글 코리아 오픈 채팅](https://open.kakao.com/o/gP24T89)
+- [데이터뽀개기](https://www.facebook.com/groups/databreak/)
 
 ## 7. 책
 - **(추천!)** 정권우님의 [Kaggle 우승작으로 배우는 머신러닝 탐구생활](http://www.yes24.com/24/goods/63830327?scode=032&OzSrank=1)
