@@ -8,8 +8,9 @@
 ---
 
 - 작성자 : [SeongYun Byeon](https://github.com/zzsza)
-- 최근 수정일 : 19.02.10
+- 최근 수정일 : 19.06.08
 - 수정 사항
+	- 19.06.08 : 캐글코리아 블로그 주소 추가
 	- 19.02.10 : 이유한님 유튜브 주소 추가(커널 필사 스터디), 캐글코리아 오픈채팅/2019 1st ML month with KaKR 추가
 	- 18.11.14 : Boosting 알고리즘 설명 자료 추가, 이정윤님 키노트 추가
 	- 18.11.04 : 캐글뽀개기 행사 DATA BREAK 2018 발표 자료 추가
@@ -28,10 +29,11 @@
 - [Kaggle KR 블로그](http://kaggle-kr.tistory.com/)
 - [How to Rank 10% in Your First Kaggle Competition](https://dnc1994.com/2016/05/rank-10-percent-in-first-kaggle-competition-en/)
 - [Pycon 2018 Kaggle Tutorial : 미운우리캐글](https://www.slideshare.net/yeonminkim/pycon-korea-2018-kaggle-tutorialkaggle-break)
-- **(new!)** [DataBreak 2018 발표 자료](http://kagglebreak.com/databreak2018/speakers/)
+- [DataBreak 2018 발표 자료](http://kagglebreak.com/databreak2018/speakers/)
 	- 이정윤님 키노트 [Mastering Machine Learning with Competitions](https://github.com/KaggleBreak/databreak/raw/master/2018/Keynote/%EC%9D%B4%EC%A0%95%EC%9C%A4%EB%8B%98_Mastering%20ML%20with%20Competitions.pdf) 
 	- 이외에도 다양한 발표 자료가 많습니다 :)
 - [2019 1st ML month with KaKR](https://www.kaggle.com/c/2019-1st-ml-month-with-kakr)
+- **(new!)** [Kaggle KR 블로그](https://kaggle-kr.tistory.com/) : 각종 커널 번역 자료들이 있는 곳 :)
 
 
 ## 2. 캐글 과거 솔루션 및 경험기
@@ -54,7 +56,7 @@
 - [Light GBM](https://lightgbm.readthedocs.io/en/latest/)
 - [Catboost](https://catboost.yandex/)
 - [StackNet](https://github.com/kaz-Anova/StackNet)
-- **(new!)** [CatBoost vs. Light GBM vs. XGBoost 비교글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
+- [CatBoost vs. Light GBM vs. XGBoost 비교글](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
 
 ## 4. 기타
