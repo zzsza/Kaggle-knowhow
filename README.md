@@ -1,5 +1,5 @@
 # Kaggle-knowhow
-- [![HitCount](http://hits.dwyl.io/zzsza/Kaggle-knowhow.svg)](http://hits.dwyl.io/zzsza/Kaggle-knowhow)
+- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza%2FKaggle-knowhow)](https://hits.seeyoufarm.com)
 - Kaggle-Knowhow(Korean Ver) 
 - 한국분들을 위한 Kaggle 자료 모음입니다
 - Kaggle Intro와 Kaggle Flow은 직접 작성하였으며, 주관이 들어가 있기 때문에 실제와 다를 수 있습니다!
